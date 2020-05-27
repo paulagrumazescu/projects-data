@@ -1,0 +1,36 @@
+{
+	"application": {
+		"name": "Rent Management",
+		"state": {
+			"users": [{
+				"email": "a@b.com",
+				"password": "pass",
+				"properties": [{
+						"title": "title example",
+						"address": "address example",
+						"price": 150,
+						"numberOfRooms": 5,
+						"surface": 150,
+						"dateOfConstruction": "10-10-2000"
+					},
+					{
+						"title": "title example2",
+						"address": "address example2",
+						"price": 160,
+						"numberOfRooms": 6,
+						"surface": 160,
+						"dateOfConstruction": "10-10-2001"
+					},
+					{
+						"title": "title example3",
+						"address": "address example3",
+						"price": 170,
+						"numberOfRooms": 7,
+						"surface": 170,
+						"dateOfConstruction": "10-10-2002"
+					}
+				]
+			}]
+		}
+	}
+}
